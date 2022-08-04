@@ -19,4 +19,4 @@ My NextJS boilerplate with eslint & prettier setup and jsconfig for absolute pro
   git commit -m "Your initialize commit"
   ```
 - Project ready.
-- You can push/publish to your own github by changing some configuration in package.json based on the configuration you want.
+- You can push/publish to your own github by changing some configuration in ```package.json``` based on the configuration you want.
