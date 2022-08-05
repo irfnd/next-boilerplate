@@ -8,10 +8,10 @@ My NextJS boilerplate with eslint & prettier setup and jsconfig for absolute pro
   ```bash
   git clone https://github.com/irfnd/next-boilerplate-eslint-prettier
   ```
+- Rename this boilerplate to whatever you want
   ```bash
-  cd next-boilerplate-eslint-prettier
+  cd <your-project-name>
   ```
-- You can rename it to whatever you want
 - Delete .git folder
 - Reinitialize your git
   ```bash
