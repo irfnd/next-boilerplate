@@ -11,7 +11,7 @@ My NextJS boilerplate with eslint & prettier setup and jsconfig for absolute pro
   ```bash
   cd next-boilerplate-eslint-prettier
   ```
-- You can rename it wherever what you want
+- You can rename it to whatever you want
 - Delete .git folder
 - Reinitialize your git
   ```bash
