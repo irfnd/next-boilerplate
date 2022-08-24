@@ -1,4 +1,4 @@
-# NextJS with Elint + Prettier Setup
+# NextJS with Eslint + Prettier Setup
 
 My NextJS boilerplate with eslint & prettier setup and jsconfig for absolute project path.
 
