@@ -4,9 +4,9 @@ A boilerplate/starter project for quickly building web using Next
 
 ## Features
 
-- **Absolute Path**: using jsconfig.json [see more](https://nextjs.org/docs/advanced-features/module-path-aliases)
-- **Git hooks**: using [lint-staged](https://github.com/okonet/lint-staged)
-- **Linting**: using [eslint](https://eslint.org/) and [prettier](https://prettier.io/)
+- **Absolute Path**: using jsconfig.json. [see more](https://nextjs.org/docs/advanced-features/module-path-aliases)
+- **Git hooks**: using [lint-staged](https://github.com/okonet/lint-staged). [see more](https://nextjs.org/docs/basic-features/eslint)
+- **Linting**: using [eslint](https://eslint.org/) and [prettier](https://prettier.io/). [see more](https://nextjs.org/docs/basic-features/eslint)
 
 ## Get Started
 
