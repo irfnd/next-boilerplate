@@ -4,7 +4,7 @@
 	"version": "1.0.0",
 	"author": "irfnd <irfandiabimanyu@gmail.com>",
 	"private": false,
-	"license": "UNLICENSED",
+	"license": "MIT",
 	"scripts": {
 		"dev": "next dev",
 		"build": "next build",
