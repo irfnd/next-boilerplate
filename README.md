@@ -48,4 +48,4 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the [MIT](https://github.com/irfnd/express-boilerplate/blob/master/LICENSE) License.
+Distributed under the [MIT](https://github.com/irfnd/next-boilerplate/blob/master/LICENSE) License.
