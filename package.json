@@ -11,23 +11,23 @@
 		"start": "next start",
 		"prepare": "husky install",
 		"lint": "next lint",
-		"format": "prettier --loglevel warn --write \"**/*.{js,json,md}\""
+		"format": "prettier --write \"**/*.{js,json,md}\""
 	},
 	"dependencies": {
-		"next": "^13.0.6",
+		"next": "^13.1.6",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0"
 	},
 	"devDependencies": {
-		"eslint": "^8.29.0",
-		"eslint-config-next": "^13.0.6",
-		"eslint-config-prettier": "^8.5.0",
-		"husky": "^8.0.2",
-		"lint-staged": "^13.1.0",
-		"prettier": "^2.8.1"
+		"eslint": "^8.33.0",
+		"eslint-config-next": "^13.1.6",
+		"eslint-config-prettier": "^8.6.0",
+		"husky": "^8.0.3",
+		"lint-staged": "^13.1.1",
+		"prettier": "^2.8.4"
 	},
 	"lint-staged": {
-		"*.js": "eslint --cache --fix",
-		"*.{js,md}": "prettier --write"
+		"**/*.js": "eslint --fix",
+		"**/*.{js,json,md}": "prettier --write"
 	}
 }
